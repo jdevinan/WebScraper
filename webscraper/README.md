@@ -63,7 +63,7 @@ How to Run the application on Windows-OS?
 Download the ZIP file from the location "https://codeload.github.com/jdevinan/WebScraper/zip/master".
 Extract the ZIP file contents to a temporary directory ( e.g. by name "tmp" ).
 
-cd \tmp\WebScraper-master\WebScraper-master\webscraper>
+cd \tmp\WebScraper-master\WebScraper-master\webscraper
 
 The dependency management tool called "Maven" is configured to package all dependencies in a single executable JAR file. Execute the following command to to generate this JAR file.
 
